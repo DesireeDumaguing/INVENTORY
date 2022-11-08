@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  color: #f59498;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+table {
+  margin: 50px;
+}
+
+.pagination li a {
+  font-size: 1rem;
+}
+
+th {
+  background-color: #f59498;
+}
